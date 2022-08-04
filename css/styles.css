@@ -49,15 +49,70 @@ nav a:hover {
 }
 
 #center {
-    width: 75%;
+    width: 70%;
     float: left;
     height: 100%;
 }
 
 #side {
-    width: 20%;
+    width: 28%;
     float: right;
     height: 100%;
 }
+
+.center-article-1 {
+    border-style:ridge;
+    border-radius: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.center-article-2 {
+    border-style:ridge;
+    margin-top: 10px;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+
+.center-article-3 {
+    margin-top: 20px;
+    border-style:ridge;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+
+.side-article {
+    border-style: ridge;
+    border-radius: 25px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.side-article-2 {
+    border-style: ridge;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.context {
+    margin-left: 10px;
+}
+.center-1 {
+    margin-left: 10px;
+}
+.background {
+    margin-left: 10px;
+}
+.center-2 {
+    margin-left: 10px;
+}
+.contact {
+    margin-left: 10px;
+}
+
+
 
 
